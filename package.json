@@ -9,7 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "grunt": "^1.0.1"
+    "async": "^2.0.0-rc.3",
+    "brain": "^0.7.0",
+    "bson": "^0.4.23",
+    "grunt": "^1.0.1",
+    "jsonfile": "^2.2.3",
+    "lodash": "^4.9.0",
+    "pad": "^1.0.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^1.0.0",
